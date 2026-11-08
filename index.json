@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "emnlp2026-reground",
+  "versions": [
+    {
+      "commit": "36c2942f48a4d00149d7917fb7e4bf2917efee48",
+      "tag": "",
+      "parsed_at": "2026-11-08T17:36:43.252229+00:00"
+    }
+  ]
+}
