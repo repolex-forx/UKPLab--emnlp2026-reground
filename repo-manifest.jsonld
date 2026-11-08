@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/emnlp2026-reground/commit/36c2942f48a4d00149d7917fb7e4bf2917efee48",
       "git:hexsha": "36c2942f48a4d00149d7917fb7e4bf2917efee48",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
